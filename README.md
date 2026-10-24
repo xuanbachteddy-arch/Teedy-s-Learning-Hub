@@ -2,7 +2,7 @@
 
 **Teedy's Hub** is an all-in-one, highly customizable productivity and study dashboard built entirely with **vanilla HTML, CSS, and JavaScript**. Designed with a playful Duolingo-inspired UI, it combines everything a student needs into a single, seamless web app—no backend required.
 
-👉 **[Live Demo](https://your-link-here.netlify.app)** *(Replace with your Netlify/Vercel link)*
+👉 **[Live Demo](https://teedylearnhub.netlify.app))**
 
 ---
 
